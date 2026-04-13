@@ -21,5 +21,4 @@ pipeline {
             echo 'Errore nel deploy app2'
         }
     }
-  }
 }
